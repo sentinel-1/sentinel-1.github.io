@@ -1,0 +1,64 @@
+[
+	{
+		"og_url": "https://sentinel-1.github.io/GEL_time_traveling_machine/ka/",
+		"og_type": "article",
+		"og_title": "GEL (\u20be) \u10d3\u10e0\u10dd\u10e8\u10d8 \u10db\u10dd\u10d2\u10d6\u10d0\u10e3\u10e0\u10dd\u10d1\u10d8\u10e1 \u10db\u10d0\u10dc\u10e5\u10d0\u10dc\u10d0",
+		"og_description": "\u10e0\u10d0 \u10d2\u10d0\u10d5\u10da\u10d4\u10dc\u10d0 \u10d0\u10e5\u10d5\u10e1 \u10d8\u10dc\u10e4\u10da\u10d0\u10ea\u10d8\u10d0\u10e1 \u10d7\u10e5\u10d5\u10d4\u10dc\u10e1 \u10ef\u10d8\u10d1\u10d4\u10d6\u10d4 \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e8\u10d8?",
+		"og_image": "https://raw.githubusercontent.com/sentinel-1/GEL_time_traveling_machine/master/images/GEL_rocket_orange_light_alt_(1200x628).png",
+		"og_image_alt": "Logo of the GEL Time Traveling Machine",
+		"og_image_type": "image/png",
+		"og_image_width": "1200",
+		"og_image_height": "628",
+		"article_published_time": "2022-07-16T20:58:27+00:00",
+		"article_modified_time": "2022-07-16T21:43:19+00:00",
+		"article_publisher": "https://sentinel-1.github.io",
+		"article_author": [
+			"https://github.com/sentinel-1"
+		],
+		"article_section": "datascience",
+		"article_tag": [
+			"datascience",
+			"Python",
+			"data",
+			"analytics",
+			"datavisualization",
+			"bigdataunit",
+			"visualization",
+			"inflation",
+			"GEL",
+			"Lari",
+			"CPI",
+			"timetravelingmachine"
+		]
+	},
+	{
+		"og_url": "https://sentinel-1.github.io/net_migration_map_Georgia/ka/",
+		"og_type": "article",
+		"og_title": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e1 \u10d2\u10d0\u10e0\u10d4 \u10db\u10d8\u10d2\u10e0\u10d0\u10ea\u10d8\u10e3\u10da\u10d8 \u10e1\u10d0\u10da\u10d3\u10dd\u10e1 \u10e0\u10e3\u10d9\u10d0",
+		"og_description": "\u10e1\u10e2\u10d0\u10e2\u10d8\u10e1\u10e2\u10d8\u10d9\u10e3\u10e0\u10d8 \u10e0\u10e3\u10d9\u10d0 \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10db\u10dd\u10e5\u10d0\u10da\u10d0\u10e5\u10d4\u10dd\u10d1\u10d8\u10e1 \u10db\u10d8\u10ee\u10d4\u10d3\u10d5\u10d8\u10d7 \u10d0\u10e1\u10d0\u10ee\u10d0\u10d5\u10e1 \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e1 \u10d2\u10d0\u10e0\u10d4 \u10db\u10d8\u10d2\u10e0\u10d0\u10ea\u10d8\u10e3\u10da \u10e1\u10d0\u10da\u10d3\u10dd\u10e1",
+		"og_image": "https://raw.githubusercontent.com/sentinel-1/net_migration_map_Georgia/master/screenshots/2022-06-28_(1200x628).png",
+		"og_image_alt": "Screen Shot of the resulting map",
+		"og_image_type": "image/png",
+		"og_image_width": "1200",
+		"og_image_height": "628",
+		"article_published_time": "2022-07-05T19:34:45+00:00",
+		"article_modified_time": "",
+		"article_publisher": "https://sentinel-1.github.io",
+		"article_author": [
+			"https://github.com/sentinel-1"
+		],
+		"article_section": "datascience",
+		"article_tag": [
+			"datascience",
+			"geospatialdata",
+			"Python",
+			"data",
+			"analytics",
+			"datavisualization",
+			"bigdataunit",
+			"visualization",
+			"migration",
+			"Georgia"
+		]
+	}
+]
