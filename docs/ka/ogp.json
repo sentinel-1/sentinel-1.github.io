@@ -60,5 +60,66 @@
 			"migration",
 			"Georgia"
 		]
+	},
+	{
+		"og_url": "https://sentinel-1.github.io/employment_map_Georgia/",
+		"og_type": "article",
+		"og_title": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e1 \u10d3\u10d0\u10e1\u10d0\u10e5\u10db\u10d4\u10d1\u10d8\u10e1 \u10e0\u10e3\u10d9\u10d0 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d4\u10d1\u10d8\u10e1 \u10db\u10d8\u10ee\u10d4\u10d3\u10d5\u10d8\u10d7",
+		"og_description": "\u10e1\u10d0\u10d3 \u10d0\u10e0\u10d8\u10e1 \u10e1\u10d0\u10db\u10e3\u10e8\u10d0\u10dd \u10d0\u10d3\u10d2\u10d8\u10da\u10d4\u10d1\u10d8 \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e8\u10d8?",
+		"og_image": "https://raw.githubusercontent.com/sentinel-1/employment_map_Georgia/master/map.png",
+		"og_image_alt": "\u10d3\u10d0\u10e1\u10d0\u10e5\u10db\u10d4\u10d1\u10d8\u10e1 \u10e0\u10e3\u10d9\u10d0",
+		"og_image_type": "image/png",
+		"og_image_width": "1296",
+		"og_image_height": "648",
+		"article_published_time": "2022-08-14T06:18:45+00:00",
+		"article_modified_time": "2022-08-14T06:46:17+00:00",
+		"article_publisher": "https://sentinel-1.github.io",
+		"article_author": [
+			"https://github.com/sentinel-1"
+		],
+		"article_section": "datascience",
+		"article_tag": [
+			"datascience",
+			"geospatialdata",
+			"Python",
+			"data",
+			"analytics",
+			"datavisualization",
+			"bigdataunit",
+			"visualization",
+			"employment",
+			"Georgia"
+		]
+	},
+	{
+		"og_url": "https://sentinel-1.github.io/mobile_subscribers_Georgia/",
+		"og_type": "article",
+		"og_title": "\u10db\u10dd\u10d1\u10d8\u10da\u10e3\u10e0\u10d8 \u10dd\u10de\u10d4\u10e0\u10d0\u10e2\u10dd\u10e0\u10d4\u10d1\u10d8\u10e1 \u10e0\u10d4\u10d8\u10e2\u10d8\u10dc\u10d2\u10d8 \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd\u10e8\u10d8",
+		"og_description": "\u10e0\u10dd\u10db\u10d4\u10da \u10d9\u10dd\u10db\u10de\u10d0\u10dc\u10d8\u10d4\u10d1\u10e1 \u10d8\u10e0\u10e9\u10d4\u10d5\u10d4\u10dc \u10db\u10dd\u10d1\u10d8\u10da\u10e3\u10e0\u10d8 \u10d9\u10dd\u10db\u10e3\u10dc\u10d8\u10d9\u10d0\u10ea\u10d8\u10d4\u10d1\u10d8\u10e1 \u10d0\u10d1\u10dd\u10dc\u10d4\u10dc\u10e2\u10d4\u10d1\u10d8?",
+		"og_image": "https://raw.githubusercontent.com/sentinel-1/mobile_subscribers_Georgia/master/images/ASA_Mobile_123.png",
+		"og_image_alt": "\u10db\u10dd\u10d1\u10d8\u10da\u10e3\u10e0\u10d8 \u10dd\u10de\u10d4\u10e0\u10d0\u10e2\u10dd\u10e0\u10d4\u10d1\u10d8\u10e1 \u10e0\u10d4\u10d8\u10e2\u10d8\u10dc\u10d2\u10d8\u10e1 123 \u10da\u10dd\u10d2\u10dd",
+		"og_image_type": "image/png",
+		"og_image_width": "1200",
+		"og_image_height": "628",
+		"article_published_time": "2022-08-14T05:23:44+00:00",
+		"article_modified_time": "2022-08-14T06:04:27+00:00",
+		"article_publisher": "https://sentinel-1.github.io",
+		"article_author": [
+			"https://github.com/sentinel-1"
+		],
+		"article_section": "datascience",
+		"article_tag": [
+			"datascience",
+			"Python",
+			"data",
+			"analytics",
+			"datavisualization",
+			"bigdataunit",
+			"visualization",
+			"mobilesubscribers",
+			"mobilecompanies",
+			"ranking",
+			"telecomunication"
+		]
 	}
 ]
