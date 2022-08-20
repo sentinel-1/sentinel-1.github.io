@@ -1,5 +1,37 @@
 [
 	{
+		"og_url": "https://sentinel-1.github.io/odoo_forum_user_profile/",
+		"og_type": "article",
+		"og_title": "User Participation in the Odoo Community Forum",
+		"og_description": "Activity statistics visualized in a way similar to GitHub's contributions plot",
+		"og_image": "https://raw.githubusercontent.com/sentinel-1/odoo_forum_user_profile/master/images/OdooProfileScreenshot.png",
+		"og_image_alt": "Odoo Community Forum Profile Screenshot",
+		"og_image_type": "image/png",
+		"og_image_width": "1302",
+		"og_image_height": "987",
+		"article_published_time": "2022-08-20T09:59:43+00:00",
+		"article_modified_time": "2022-08-20T10:32:18+00:00",
+		"article_publisher": "https://sentinel-1.github.io",
+		"article_author": [
+			"https://github.com/sentinel-1"
+		],
+		"article_section": "datascience",
+		"article_tag": [
+			"datascience",
+			"Python",
+			"data",
+			"timeseries",
+			"analytics",
+			"datavisualization",
+			"bigdataunit",
+			"visualization",
+			"webscraping",
+			"odoo",
+			"forum",
+			"user"
+		]
+	},
+	{
 		"og_url": "https://sentinel-1.github.io/GEL_time_traveling_machine/",
 		"og_type": "article",
 		"og_title": "GEL (\u20be) Time Traveling Machine",
